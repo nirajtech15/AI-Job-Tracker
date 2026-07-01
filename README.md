@@ -86,12 +86,6 @@ The project is built using modern full-stack technologies and Generative AI to p
 
 ---
 
-### Resume Analyzer
-
-![](screenshots/resume-analyzer.png)
-
----
-
 ### Career Coach
 
 ![](screenshots/career-coach.png)
@@ -114,6 +108,33 @@ The project is built using modern full-stack technologies and Generative AI to p
 
 ![](screenshots/roadmap.png)
 
+### Job List
+
+![](screenshots/job-list.png)
+
+---
+### Cover Letter Generate with AI
+
+![](screenshots/cover-letter.png)
+
+---
+### Interview Question & Answer Generate with AI
+
+![](screenshots/interview-qa.png)
+
+---
+### AI Analysis
+
+![](screenshots/ai-anayslis.png)
+
+---
+### AI Resume Improver
+
+![](screenshots/ai-resume-improve.png)
+
+---
+
+
 | Module | AI Powered |
 |----------|------------|
 | Resume Analyzer | ✅ |
@@ -125,7 +146,7 @@ The project is built using modern full-stack technologies and Generative AI to p
 | Interview Evaluation | ✅ |
 | Learning Roadmap | ✅ |
 
-git clone https://github.com/your-username/careerpilot-ai-showcase.git
+git clone https://github.com/nirajtech15/AI-Job-Tracker.git
 
 cd careerpilot-ai-showcase
 
