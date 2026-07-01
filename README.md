@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/main_banner.png" width="100%" alt="CareerPilot AI Banner"/>
+  <img src="./assets/main-banner.png" width="100%" alt="CareerPilot AI Banner"/>
 </p>
 ## Quick Navigation
 
